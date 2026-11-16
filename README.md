@@ -1,6 +1,7 @@
 # CI/CD Lab Starter
 
 [YouTube](https://youtu.be/B7GM6F3BP6A?si=AoBMzotEfbAlntuX)
+[Render Dashboard](https://dashboard.render.com/)
 
 A small Express and TypeScript app for the CI/CD Crash Course. Use this starting point to follow along with automated testing, GitHub Actions, and deployment to Render.
 
